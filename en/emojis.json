@@ -1,4 +1,12 @@
 [
+    {"type":"substitution","pattern":":)","value":"smiling face"},
+    {"type":"substitution","pattern":":D","value":"happy face"},
+    {"type":"substitution","pattern":":3","value":"smiling face"},
+    {"type":"substitution","pattern":":(","value":"sad face"},
+    {"type":"substitution","pattern":":>","value":"smug"},
+    {"type":"substitution","pattern":":/","value":"bring it on"},
+    {"type":"substitution","pattern":":O","value":"suprised"},
+
 	{"type":"substitution","pattern":"🥰","value":"smiling face with hearts"},
     {"type":"substitution","pattern":"😭","value":"loudly crying face"},
     {"type":"substitution","pattern":"😡","value":"pouting face"},
